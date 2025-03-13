@@ -10,3 +10,5 @@ Dritter Test mit "docker-build.yml" (11:19 13.03.2025).
 Vierter Test mit "docker-build.yml" (11:40 13.03.2025).
 
 Fünfter Test mit "docker-build.yml" (11:48 13.03.2025).
+
+Sechster Test mit "docker-build.yml" (14:47 13.03.2025).
